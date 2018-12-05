@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+server.secret.json
+yarn-error.log
+.DS_Store
+.vs/
+.vscode/
+!desktop.ini
+upload.zip

@@ -1,0 +1,17 @@
+{
+  "name": "cthoni",
+  "version": "0.0.1",
+  "description": "PWA learning",
+  "main": "index.js",
+  "author": "Nikki Chadwick <nikky.chadwick@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node --use-strict index.js",
+    "zip": "zip -r upload.zip node_modules public src index.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
